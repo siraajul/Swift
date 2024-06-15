@@ -1,0 +1,5 @@
+var freeApp: Bool = true
+
+if freeApp == true{
+    print("you are using free version of the app. Buy the full version of the app to get to all of its feature")
+}
